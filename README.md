@@ -1,4 +1,6 @@
 ## Create Kodi plugins for your YouTube channel
+
+[![Join the chat at https://gitter.im/marduk191/YPC](https://badges.gitter.im/marduk191/YPC.svg)](https://gitter.im/marduk191/YPC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://raw.githubusercontent.com/marduk191/wikiart/master/YPC.jpg)
 
 ## What to do:
